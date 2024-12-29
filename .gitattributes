@@ -1,9 +1,1 @@
-*.make linguist-vendored
-*.marks linguist-vendored
-*.check_cache linguist-vendored
-*.yaml linguist-vendored
-*.a linguist-vendored
-*.ts linguist-vendored
-*.internal linguist-vendored
-
 build/* linguist-vendored
