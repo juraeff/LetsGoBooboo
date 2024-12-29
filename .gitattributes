@@ -5,3 +5,5 @@
 *.a linguist-vendored
 *.ts linguist-vendored
 *.internal linguist-vendored
+
+build/* linguist-vendored
