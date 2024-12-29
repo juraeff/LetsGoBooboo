@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/main.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/main.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/main.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/FileReader.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/FileReader.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/FileReader.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/FileReader.cpp.obj"
+},
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/Enemy.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/Enemy.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/Enemy.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/Enemy.cpp.obj"
+},
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/Character.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/Character.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/Character.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/Character.cpp.obj"
+},
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/resources.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/resources.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/resources.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/resources.cpp.obj"
+},
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/utils.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/utils.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/utils.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/dunla/Desktop/LetsGoBooboo/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -o CMakeFiles/LetsGoBooboo.dir/src/game.cpp.obj -c /C/Users/dunla/Desktop/LetsGoBooboo/src/game.cpp",
+  "file": "C:/Users/dunla/Desktop/LetsGoBooboo/src/game.cpp",
+  "output": "CMakeFiles/LetsGoBooboo.dir/src/game.cpp.obj"
+}
+]
